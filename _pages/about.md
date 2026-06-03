@@ -14,26 +14,23 @@ My research interests include inventory management, supply chain management, rid
 
 ## Education Background
 
-- **The Hong Kong University of Science and Technology (HKUST)**,
-  **Ph.D. in Industrial Engineering and Decision Analytics**, Aug 2022 – Jun 2027 (expected)  
-  - Advisor: Prof. Ying-Ju Chen
+- Aug 2022 – Present, **The Hong Kong University of Science and Technology (HKUST)**,
+  Ph.D. in Industrial Engineering and Decision Analytics
 
-- **University of Michigan, Ann Arbor**,
-  **M.S. in Applied Statistics (3+2 Accelerated Program)**, Aug 2020 – Jun 2022  
-  - GPA: 3.95/4.00  
+- Aug 2020 – Jun 2022, **University of Michigan, Ann Arbor**,
+  M.S. in Applied Statistics (3+2 Accelerated Program)
 
-- **The Chinese University of Hong Kong, Shenzhen**,
-  **B.Sc. in Statistics (Data Science Track)**, Aug 2017 – Jun 2020  
-  - Major GPA: 3.66/4.00  
+- Aug 2017 – Jun 2020, **The Chinese University of Hong Kong, Shenzhen**,
+  B.Sc. in Statistics (Data Science)
 
 ## Papers
 
 1. **Strategic Inventory Coordination in Multi-tier Supply Chains**  
-   with Chang Dong, Ying-Ju Chen
+   with Chang Dong, Ying-Ju Chen  
    *Manufacturing & Service Operations Management, Major Revision*
 
 3. **Contracting for Seed Innovation in Developing Economies: Risk Sharing, Innovation Incentives, and Food Security**  
-   with Lusheng Shao, Ying-Ju Chen
+   with Lusheng Shao, Ying-Ju Chen  
    *Manufacturing & Service Operations Management, Under Review*
 
 2. **Dynamic Vehicle Repositioning Algorithm Design in Ride-hailing Markets**  
@@ -51,8 +48,12 @@ My research interests include inventory management, supply chain management, rid
 ## Honors and Awards
 
 - HKUST IEDA Teaching Assistant Award, 2024  
-- First-Class Graduation Honor, CUHK-Shenzhen (Top 10%), 2020  
+- First-Class Graduation Honor, CUHK-Shenzhen (Top 10%), 2021  
 - Dean’s List, CUHK-Shenzhen, 2019 & 2020
+
+## Academic Services
+
+- Reviewer for _Manufacturing & Service Operations Management_, _Production and Operations Management_
 
 ## Skills
 
