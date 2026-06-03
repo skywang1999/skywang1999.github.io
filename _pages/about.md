@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am a PhD Candidate of Operations Management in Industrial Engineering and Decision Analytics at the Hong Kong University of Science and Technology (HKUST). My supervisor is Prof. Ying-Ju Chen.
+Welcome to my personal website. I am a Ph.D. candidate in Operations Management in the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Ying-Ju Chen](https://imchen.people.ust.hk). Before joining HKUST, I received my master’s degree from the University of Michigan, Ann Arbor, and my bachelor’s degree from the Chinese University of Hong Kong, Shenzhen.
 
-Before my PhD, I had my Master's degree in University of Michigan, Ann Arbor, and my bachelor degree in Chinese University of Hong Kong, Shenzhen.
-
-My research interest includes Inventory Management, Supply Chain Management, Ride-hailing Platform Operations, Information Design, Innovation Contracting.
+My research interests include inventory management, supply chain management, ride-hailing platform operations, information design, and innovation contracting.
 
 
