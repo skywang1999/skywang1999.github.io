@@ -14,27 +14,27 @@ My research interests include inventory management, supply chain management, rid
 
 ## Education Background
 
-- **The Hong Kong University of Science and Technology (HKUST)**, Hong Kong  
+- **The Hong Kong University of Science and Technology (HKUST)**,
   **Ph.D. in Industrial Engineering and Decision Analytics**, Aug 2022 – Jun 2027 (expected)  
-  - Advisor: [Prof. Ying-Ju Chen](https://imchen.people.ust.hk)  
+  - Advisor: Prof. Ying-Ju Chen
 
-- **University of Michigan, Ann Arbor**, Ann Arbor, MI, USA  
+- **University of Michigan, Ann Arbor**,
   **M.S. in Applied Statistics (3+2 Accelerated Program)**, Aug 2020 – Jun 2022  
   - GPA: 3.95/4.00  
 
-- **The Chinese University of Hong Kong, Shenzhen**, Shenzhen, China  
+- **The Chinese University of Hong Kong, Shenzhen**,
   **B.Sc. in Statistics (Data Science Track)**, Aug 2017 – Jun 2020  
   - Major GPA: 3.66/4.00  
 
 ## Papers
 
 1. **Strategic Inventory Coordination in Multi-tier Supply Chains**  
-   with Chang Dong, Ying-Ju Chen  
-   *Manufacturing & Service Operations Management (UTD-24), Major Revision*
+   with Chang Dong, Ying-Ju Chen  \\
+   *Manufacturing & Service Operations Management, Major Revision*
 
 3. **Contracting for Seed Innovation in Developing Economies: Risk Sharing, Innovation Incentives, and Food Security**  
-   with Lusheng Shao, Ying-Ju Chen
-   *Manufacturing & Service Operations Management (UTD-24), Under Review*
+   with Lusheng Shao, Ying-Ju Chen \\
+   *Manufacturing & Service Operations Management, Under Review*
 
 2. **Dynamic Vehicle Repositioning Algorithm Design in Ride-hailing Markets**  
    with Qiaochu He, Zhengfei Zheng, Hai Yang, Ying-Ju Chen  
