@@ -21,7 +21,7 @@ My research interests include **inventory management, supply chain management, r
   M.S. in Applied Statistics (3+2 Accelerated Program)
 
 - Aug 2017 – Jun 2020, **The Chinese University of Hong Kong, Shenzhen**,  
-  B.Sc. in Statistics (Data Science)
+  B.Sc. in Data Science
 
 ## Papers
 
