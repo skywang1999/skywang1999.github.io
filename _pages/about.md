@@ -14,14 +14,14 @@ My research interests include _inventory management, supply chain management, ri
 
 ## Education Background
 
-- Aug 2022 – Present, **Hong Kong University of Science and Technology** (Hong Kong SAR, China), 
-  Ph.D. in Industrial Engineering and Decision Analytics
+- Aug 2022 – Present, **Hong Kong University of Science and Technology**  
+  (Hong Kong SAR, China), Ph.D. in Industrial Engineering and Decision Analytics
 
-- Aug 2020 – Jun 2022, **University of Michigan, Ann Arbor** (Ann Arbor, Michigan, USA),  
-  M.S. in Applied Statistics (3+2 Accelerated Program)
+- Aug 2020 – Jun 2022, **University of Michigan, Ann Arbor**  
+  (Ann Arbor, Michigan, USA), M.S. in Applied Statistics (3+2 Accelerated Program)
 
-- Aug 2017 – Jun 2020, **The Chinese University of Hong Kong, Shenzhen** (Shenzhen, China),
-  B.Sc. in Data Science
+- Aug 2017 – Jun 2020, **The Chinese University of Hong Kong, Shenzhen**  
+  (Shenzhen, China), B.Sc. in Data Science
 
 ## Papers
 
