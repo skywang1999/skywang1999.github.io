@@ -23,7 +23,7 @@ repository               : "skywang1999/skywang1999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "skywang_profile.png"
   name             : "Tianshi Wang (Sky)"
   pronouns         : "He/Him"  
   bio              : "PhD Candidate in IEDA, Hong Kong University of Science and Technology"
