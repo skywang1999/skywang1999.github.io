@@ -29,11 +29,11 @@ My research interests include inventory management, supply chain management, rid
 ## Papers
 
 1. **Strategic Inventory Coordination in Multi-tier Supply Chains**  
-   with Chang Dong, Ying-Ju Chen  \\
+   with Chang Dong, Ying-Ju Chen
    *Manufacturing & Service Operations Management, Major Revision*
 
 3. **Contracting for Seed Innovation in Developing Economies: Risk Sharing, Innovation Incentives, and Food Security**  
-   with Lusheng Shao, Ying-Ju Chen \\
+   with Lusheng Shao, Ying-Ju Chen
    *Manufacturing & Service Operations Management, Under Review*
 
 2. **Dynamic Vehicle Repositioning Algorithm Design in Ride-hailing Markets**  
