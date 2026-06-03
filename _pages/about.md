@@ -59,4 +59,4 @@ My research interests include _inventory management, supply chain management, ri
 
 - **Programming:** Python, R, C++, SQL, LaTeX  
 - **Languages:** English (fluent; TOEFL 108, GRE 324 + 4)
-- **Leadership:** Founder and Co-Chair, Statistics Alliance, CUHK-Shenzhen (5 departments, 200+ members)
+- **Leadership:** Founder and Co-Chair of Statistics Alliance, CUHK-Shenzhen 
