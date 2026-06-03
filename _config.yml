@@ -28,7 +28,7 @@ author:
   pronouns         : "He/Him"  
   bio              : "PhD Candidate in IEDA, Hong Kong University of Science and Technology"
   location         : "Hong Kong"
-  employer         : "Hong Kong University of Science and Technology"
+  # employer         : "HKUST"
   uri              : # URL
   email            : "twangcf@connect.ust.hk" 
 
