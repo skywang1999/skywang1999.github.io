@@ -14,7 +14,7 @@ My research interests include **inventory management, supply chain management, r
 
 ## Education Background
 
-- Aug 2022 – Present, **The Hong Kong University of Science and Technology (HKUST)**,  
+- Aug 2022 – Present, **Hong Kong University of Science and Technology (HKUST)**,  
   Ph.D. in Industrial Engineering and Decision Analytics
 
 - Aug 2020 – Jun 2022, **University of Michigan, Ann Arbor**,  
