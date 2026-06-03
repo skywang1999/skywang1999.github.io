@@ -11,10 +11,6 @@ Welcome to my personal website. I am a Ph.D. candidate in Operations Management 
 
 My research interests include inventory management, supply chain management, ride-hailing platform operations, information design, and innovation contracting.
 
-## Contact
-
-- Email: [twangcf@connect.ust.hk](mailto:twangcf@connect.ust.hk)  
-- Tel: +852 5228 7240 / +86 132 0370 0515
 
 ## Research Interests
 
