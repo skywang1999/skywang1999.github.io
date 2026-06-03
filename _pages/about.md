@@ -47,7 +47,7 @@ My research interests include _inventory management, supply chain management, ri
 
 ## Honors and Awards
 
-- HKUST IEDA Teaching Assistant Award, 2024  
+- Teaching Assistant Award of IEDA, HKUST, 2024  
 - First-Class Graduation Honor, CUHK-Shenzhen, 2021  
 - Dean’s List, CUHK-Shenzhen, 2019 & 2020
 
