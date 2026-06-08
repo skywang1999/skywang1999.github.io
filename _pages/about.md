@@ -9,8 +9,7 @@ redirect_from:
 
 Welcome to my personal website! I am a Ph.D. candidate in Operations Management at the Department of Industrial Engineering and Decision Analytics (IEDA), Hong Kong University of Science and Technology (HKUST), advised by <a href="https://imchen.people.ust.hk" style="color: #1a73e8;">Prof. Ying-Ju Chen</a>. Before joining HKUST, I received my master’s degree from the University of Michigan, Ann Arbor, and my bachelor’s degree from the Chinese University of Hong Kong, Shenzhen.
 
-My research interests include _inventory management, supply chain management, ride-hailing platform operations, information design, and innovation contracting_.
-
+My research studies how decentralized operational systems can be coordinated through indirect levers—operational (_inventory_), institutional (_contracts_), and informational (_signals_)—rather than direct control. My work spans _supply chain management_, _ride-hailing platform operations_, _information design_, and _innovation contracting_.
 
 ## Education Background
 
